@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Role-Based Access Control (RBAC) UI
 
 A modern and responsive Role-Based Access Control (RBAC) system built with React, TypeScript, and Tailwind CSS.
@@ -155,3 +156,7 @@ src/
    - Sorting capabilities
    - Search functionality
    - Dashboard analytics
+=======
+# rbac-admin-dashboard
+This project provides a user management system with role-based access control, allowing different user roles to perform specific actions (read, write, delete) based on assigned permissions.
+>>>>>>> d17f35cef9be84b98e6d4e1fdb4f43f0b8ac59fd
